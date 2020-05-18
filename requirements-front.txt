@@ -1,0 +1,13 @@
+dash
+numpy
+pandas
+plotly
+flask
+gunicorn
+scipy
+pillow
+Flask-Caching
+redis
+boto3
+requests
+python-dotenv
