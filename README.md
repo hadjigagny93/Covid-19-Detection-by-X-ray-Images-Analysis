@@ -49,7 +49,7 @@ cd src/interface
 python app.py
 ```
 <p align="center">
-  <img src="src/interface/images/readme.png">
+  <img src="src/interface/images/covid.png" width="700" height="350">
 </p>
 
 
