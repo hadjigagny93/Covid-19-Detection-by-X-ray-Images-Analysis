@@ -6,9 +6,8 @@
 With successful experimental results and wide applications, Deep Learning for computer vision has the potential to change the future of healthcare. The use of Artificial Intelligence (AI) has become increasingly popular and is now used, for example, in cancer diagnosis and treatment.
 
 The application and the works exposed in this repository concerns the diagnosis of patients probably suffering from Covid-19. The latter will be based on the image analysis of lungs passed to X-rays. For this purpose, a database is made up of images of healthy people and infected people. Deep learning models are developed for the needs of classification with a fairly large layer intended for the intelligibility of the models used. At the same time, a front-end component is developed for the visualization of data and model performance.
-<p align="center">
-  <img src="src/interface/images/covid.png">
-</p>
+
+![](src/interface/images/covid.png)
 
 ### Prerequisites
 
